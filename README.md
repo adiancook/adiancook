@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning new reinforcement learning techniques, particularly actor-critic methods as applied to autonomous systems.
 - 💞️ I’m looking to collaborate on all topics above and always willing to learn new techniques!
 - 📫 How to reach me is @adiancook everywhere!
+- Homepage is https://www.ornl.gov/staff-profile/adian-s-cook.
+- Google scholar is https://scholar.google.com/citations?user=MF7YTXoAAAAJ&hl=en.
 
 <!---
 adiancook/adiancook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
